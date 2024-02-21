@@ -1,0 +1,14 @@
+*.egg-info
+*.pyc
+.coverage*
+.eggs/
+.idea/
+.tox/
+.venv/
+build/
+coverage.xml
+dist/
+htmlcov/
+.python-version
+dotbot.py
+dotbot.spec
